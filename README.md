@@ -30,7 +30,8 @@ Given:
    - A_structured: Corresponding time courses (columns) in A.
 Assuming the process is limited to a maximum rank of k:
 - U_final = [U_0(:, 1:k-r), S_structured]
-- Σ_final = [Σ_0(1:k-r, 1:k-r), 0; 0, 1]
+- Σ_final = [Σ_0(1:k-r, 1:k-r), 0;
+             0                , 1] (for r = 1)
 - V_final = [V_0(:, 1:k-r), A_structured]
 ##### Denoised Data:
 - X_icasvd = U_final Σ_final V_final'
