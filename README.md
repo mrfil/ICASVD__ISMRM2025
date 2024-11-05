@@ -5,7 +5,9 @@ No requirements.txt file was generated
 .IMA EPI magnitude reconstruction volumes/images are located in the EPI_CMRR_170BR_magnitude folder. Use this folder path to upload the data and run the .ipynb files to reproduce figures (November abstract for ISMRM 2025). Install all dependencies first.
 
 Figure 1: PCAICACombineScatter.ipynb
+
 Figures 2 and 3: SVDICASpatialfMRI.ipynb
+
 Figures 4 and 5: NavigatorTestPy.ipynb
 
 ### ICA/SVD Combined Method for fMRI Data Analysis
