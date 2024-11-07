@@ -1,5 +1,6 @@
 # ICASVD__ISMRM2025
 Dependencies were installed in Summer or Fall of 2024 using pip install.
+Python 3.12.7 was used
 No requirements.txt file was generated
 ### To Reproduce Figures:
 .IMA EPI magnitude reconstruction volumes/images are located in the EPI_CMRR_170BR_magnitude folder. Use this folder path to upload the data and run the .ipynb files to reproduce figures (November abstract for ISMRM 2025). Install all dependencies first.
