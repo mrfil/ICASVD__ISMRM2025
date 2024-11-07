@@ -14,7 +14,7 @@ Figures 2 and 3: SVDICASpatialfMRI.ipynb
 
 Figures 4 and 5: NavigatorTestPy.ipynb
 
-### Combined ICA/SVD Method for fMRI Data Analysis
+### Combined ICA/SVD Method for fMRI
 Given:
 - X is fMRI magnitude data, voxels by time (dimension 1 by dimension 2).
 - S are the spatial sources, voxels by components.
